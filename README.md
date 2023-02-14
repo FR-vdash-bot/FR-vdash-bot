@@ -4,7 +4,7 @@ Competitive programmer / Untutored mathematics & TCS learner / Exploring the fut
 
 - Some competitive programming achievements
 
-  - NOI[^1] 2019 **The 63th Place**
+  - NOI[^1] 2019 **The 63rd Place**
 
   - The 2020 ICPC Asia Shanghai Regional Contest **The 13th Place** (Team)
  
