@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-Competitive programmer / Untutored mathematics & TCS learner / Exploring the future of proving and programming in Lean4
+Competitive programmer / Untutored pure mathematics & TCS learner / Exploring the future of proving and programming in Lean4
 
 - Some competitive programming achievements
 
