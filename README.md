@@ -1,16 +1,16 @@
 ### Hello world 👋
 
-Competitive programmer / Untutored pure mathematics & TCS learner / Exploring the future of proving and programming in Lean4
+[Competitive programmer](https://en.wikipedia.org/wiki/Competitive_programming) / Untutored **pure mathematics** & **theoretical computer science** learner / Exploring the future of proving and programming in Lean4
 
 - Some competitive programming achievements
 
   - NOI[^1] 2019 **The 63rd Place**
 
-  - The 2020 ICPC Asia Shanghai Regional Contest **The 13th Place** (Team)
+  - The 2020 ICPC Asia Shanghai Regional Contest **The 13th Place**
  
-  - The 2020 ICPC Asia Jinan Regional Contest **The 10th Place** (Team)
+  - The 2020 ICPC Asia Jinan Regional Contest **The 10th Place**
  
-  - The 2020 ICPC Asia-East Continent Final Contest **The 14th Place** (Team)
+  - The 2020 ICPC Asia-East Continent Final Contest **The 14th Place**
  
   - The 2022 ICPC Asia Nanjing Regional Contest **The 5th Place** (Solo)
 
