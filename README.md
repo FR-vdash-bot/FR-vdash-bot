@@ -4,6 +4,8 @@
 
 - Some competitive programming achievements
 
+  - NOI[^1] 2019 Joint Provincial Team Selection **The 2nd Place** (in all 12 provinces)
+
   - NOI[^1] 2019 **The 63rd Place**
 
   - The 2020 ICPC Asia Shanghai Regional Contest **The 13th Place**
